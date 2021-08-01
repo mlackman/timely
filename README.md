@@ -1,5 +1,10 @@
 # timely
 
+# Commands
+
+## Create / update infra
+`AWS_PROFILE=[your creds file in ~/.aws/credentials] infra-up`
+
 # Things to do
 
 - Can pulumi be used without pulumi's service?
